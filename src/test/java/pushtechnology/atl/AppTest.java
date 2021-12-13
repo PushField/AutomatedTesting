@@ -1,4 +1,4 @@
-package pushtechnology.proservices.atl;
+package pushtechnology.atl;
 
 import static org.junit.Assert.assertTrue;
 
